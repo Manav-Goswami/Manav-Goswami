@@ -11,7 +11,8 @@
 
 - 📝 I have published articles on Geeks For Geeks: [https://auth.geeksforgeeks.org/user/manavgoswami001/articles](https://auth.geeksforgeeks.org/user/manavgoswami001/articles)
 
-- 📫 How to reach me **https://www.linkedin.com/in/manav-goswami/**
+- 📫 How to reach me
+ **https://www.linkedin.com/in/manav-goswami/**
 
 - ⚡ Fun fact **Cynophile**
 
