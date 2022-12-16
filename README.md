@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Goswami</h1>
+<img align="center" width="1600" src="https://github.com/Manav-Goswami/Manav-Goswami/blob/main/Github_banner.png")>
 <h3 align="center">Working as a Data Engineer for a Food Manufacturing And Processing Company</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/37995408/208050436-e154d397-56eb-49bf-9d5b-d3933e9cc5b6.png">
 
